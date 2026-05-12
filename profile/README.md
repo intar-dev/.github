@@ -20,5 +20,8 @@ You can find our public repositories below.
 <br />
 <br />
 <a href="https://namespace.so">
-  <img width="250" alt="namespace-logo" src="https://github.com/user-attachments/assets/db97bcfc-061b-4482-b90d-6356f3db465b" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/namespace-logo-dark.png" />
+    <img width="250" alt="namespace-logo" src="./assets/namespace-logo-light.png" />
+  </picture>
 </a>
